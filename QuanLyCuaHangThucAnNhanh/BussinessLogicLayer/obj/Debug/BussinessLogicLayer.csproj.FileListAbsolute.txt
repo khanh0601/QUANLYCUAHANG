@@ -1,0 +1,36 @@
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.AssemblyReference.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CopyComplete
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.AssemblyReference.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CopyComplete
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb

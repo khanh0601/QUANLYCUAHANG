@@ -1,0 +1,254 @@
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\MaterialSkin.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.SuggestedBindingRedirects.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DangNhap.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DanhSach.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Menu.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhanVien.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhaCungCap.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formSanPham.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formLichLamViec.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formMaGiamGia.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNguyenLieu.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formTaoDonHang.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\MaterialSkin.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DangNhap.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DanhSach.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formLichLamViec.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formMaGiamGia.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNguyenLieu.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhaCungCap.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhanVien.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formSanPham.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formTaoDonHang.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Menu.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\MaterialSkin.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.SuggestedBindingRedirects.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DangNhap.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DanhSach.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formLichLamViec.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formMaGiamGia.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNguyenLieu.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhaCungCap.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhanVien.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formSanPham.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formTaoDonHang.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Menu.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formDonHang.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\MaterialSkin.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DangNhap.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DanhSach.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formDonHang.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formLichLamViec.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formMaGiamGia.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNguyenLieu.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhaCungCap.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhanVien.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formSanPham.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formTaoDonHang.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Menu.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\MaterialSkin.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DangNhap.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DanhSach.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formDonHang.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formLichLamViec.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formMaGiamGia.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNguyenLieu.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhaCungCap.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhanVien.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formSanPham.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formTaoDonHang.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Menu.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\MaterialSkin.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DangNhap.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DanhSach.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formDonHang.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formLichLamViec.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formMaGiamGia.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNguyenLieu.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhaCungCap.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhanVien.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formSanPham.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formTaoDonHang.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Menu.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\MaterialSkin.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.SuggestedBindingRedirects.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DangNhap.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DanhSach.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formDonHang.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formLichLamViec.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formMaGiamGia.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNguyenLieu.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhaCungCap.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhanVien.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formSanPham.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formTaoDonHang.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Menu.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.dll
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\MaterialSkin.dll
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DangNhap.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DanhSach.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formDonHang.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formLichLamViec.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formMaGiamGia.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNguyenLieu.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhaCungCap.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formNhanVien.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formSanPham.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.formTaoDonHang.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Menu.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CopyComplete
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\ACER\Desktop\QuanLyCuaHang\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb

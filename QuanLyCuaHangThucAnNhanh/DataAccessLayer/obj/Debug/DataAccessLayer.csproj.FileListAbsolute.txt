@@ -1,0 +1,84 @@
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\proj2\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\gitMain1\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchKhanh\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ACER\Downloads\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Quản lý nhà hàng\Nhà Hàng  update\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Mcdonal-quản lý nhà hàng\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\myData\$UTE\HK5\n7_HQTCSDL\Project\git\branchMain\DBMS_Project\QuanLyCuaHangThucAnNhanh\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

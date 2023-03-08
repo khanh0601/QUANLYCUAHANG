@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DE29B886-AB06-480A-8574-7E0D5AD19BBB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyCuaHangThucAnNhanh</RootNamespace>
+    <AssemblyName>QuanLyCuaHangThucAnNhanh</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.2.2.3.1\lib\net461\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhSach.Designer.cs">
+      <DependentUpon>DanhSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDonHang.Designer.cs">
+      <DependentUpon>formDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formLichLamViec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formLichLamViec.Designer.cs">
+      <DependentUpon>formLichLamViec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formMaGiamGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formMaGiamGia.Designer.cs">
+      <DependentUpon>formMaGiamGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formNguyenLieu.Designer.cs">
+      <DependentUpon>formNguyenLieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formNhaCungCap.Designer.cs">
+      <DependentUpon>formNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formNhanVien.Designer.cs">
+      <DependentUpon>formNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSanPham.Designer.cs">
+      <DependentUpon>formSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formTaoDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formTaoDonHang.Designer.cs">
+      <DependentUpon>formTaoDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhSach.resx">
+      <DependentUpon>DanhSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDonHang.resx">
+      <DependentUpon>formDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formLichLamViec.resx">
+      <DependentUpon>formLichLamViec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formMaGiamGia.resx">
+      <DependentUpon>formMaGiamGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formNguyenLieu.resx">
+      <DependentUpon>formNguyenLieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formNhaCungCap.resx">
+      <DependentUpon>formNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formNhanVien.resx">
+      <DependentUpon>formNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSanPham.resx">
+      <DependentUpon>formSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formTaoDonHang.resx">
+      <DependentUpon>formTaoDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staff1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginIcon75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginIcon50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nguyenLieu50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Btn2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Btn3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Btn1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\renew30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhaCungCap48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhaCungCap481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SanPham48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LichLamViec48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maGiamGia48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donHang48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doanhThu48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donHang481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chiTietDonHang48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Total33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Complete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newOrder2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BussinessLogicLayer\BussinessLogicLayerXX.csproj">
+      <Project>{23f018c4-ac18-47f2-b34d-49294d5cef77}</Project>
+      <Name>BussinessLogicLayerXX</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{0f84b442-a187-4d4b-8cfc-1aebe33d0bc5}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QUANLYCUAHANGModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <ComplexType Name="sf_DanhSach_LamViecNgayCa_Result">
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="TenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgayLV" Type="DateTime" />
+    <Property Name="Ca" Type="Int32" />
+  </ComplexType>
+  <ComplexType Name="sf_DanhSach_LLVTrongNgay_Result">
+    <Property Name="MaLLV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NgayLV" Type="DateTime" Nullable="false" />
+    <Property Name="CaLV" Type="Byte" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sf_nv_LocNhanVienTheoChucVu_Result">
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GioiTinh" Type="Byte" Nullable="false" />
+    <Property Name="LoaiNV" Type="Byte" Nullable="false" />
+    <Property Name="Luong" Type="Int32" />
+    <Property Name="ChucVu" Type="Byte" Nullable="false" />
+    <Property Name="DaXoa" Type="Boolean" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sf_nv_LocNhanVienTheoGioiTinh_Result">
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GioiTinh" Type="Byte" Nullable="false" />
+    <Property Name="LoaiNV" Type="Byte" Nullable="false" />
+    <Property Name="Luong" Type="Int32" />
+    <Property Name="ChucVu" Type="Byte" Nullable="false" />
+    <Property Name="DaXoa" Type="Boolean" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sf_ThongTinDonHang_Result">
+    <Property Name="MaDH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NgayTao" Type="DateTime" />
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="MaGG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ThanhTien" Type="Int32" />
+  </ComplexType>
+  <EntityType Name="CheBien">
+    <Key>
+      <PropertyRef Name="MaSP" />
+      <PropertyRef Name="MaNL" />
+    </Key>
+    <Property Name="MaSP" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaNL" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="NguyenLieu" Relationship="Self.FK_MaNL" FromRole="CheBien" ToRole="NguyenLieu" />
+    <NavigationProperty Name="SanPham" Relationship="Self.FK_MaSP" FromRole="CheBien" ToRole="SanPham" />
+  </EntityType>
+  <EntityType Name="ChiTietDonHang">
+    <Key>
+      <PropertyRef Name="MaDH" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaDH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaSP" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+    <Property Name="TongGiaTri" Type="Int32" />
+    <NavigationProperty Name="DonHangMua" Relationship="Self.FK_MaDH" FromRole="ChiTietDonHang" ToRole="DonHangMua" />
+    <NavigationProperty Name="SanPham" Relationship="Self.FK_MaSPDonHang" FromRole="ChiTietDonHang" ToRole="SanPham" />
+  </EntityType>
+  <EntityType Name="DoanhThu">
+    <Key>
+      <PropertyRef Name="Ngay" />
+    </Key>
+    <Property Name="Ngay" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TongThu" Type="Int32" />
+    <Property Name="TongChi" Type="Int32" />
+    <Property Name="TienLai" Type="Int32" />
+  </EntityType>
+  <EntityType Name="DonHangMua">
+    <Key>
+      <PropertyRef Name="MaDH" />
+    </Key>
+    <Property Name="MaDH" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NgayTao" Type="DateTime" Precision="0" />
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="MaGG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ThanhTien" Type="Int32" />
+    <NavigationProperty Name="ChiTietDonHangs" Relationship="Self.FK_MaDH" FromRole="DonHangMua" ToRole="ChiTietDonHang" />
+    <NavigationProperty Name="MaGiamGia" Relationship="Self.FK_MaGG" FromRole="DonHangMua" ToRole="MaGiamGia" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK_MaNVDonHang" FromRole="DonHangMua" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="LichLamViec">
+    <Key>
+      <PropertyRef Name="MaLLV" />
+    </Key>
+    <Property Name="MaLLV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NgayLV" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="CaLV" Type="Byte" Nullable="false" />
+    <Property Name="DaXoa" Type="Boolean" />
+    <NavigationProperty Name="NhanViens" Relationship="Self.ThamGiaLamViec" FromRole="LichLamViec" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="MaGiamGia">
+    <Key>
+      <PropertyRef Name="MaGG" />
+    </Key>
+    <Property Name="MaGG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SoTienGiam" Type="Int32" Nullable="false" />
+    <Property Name="Soluong" Type="Int32" Nullable="false" />
+    <Property Name="DaXoa" Type="Boolean" />
+    <NavigationProperty Name="DonHangMuas" Relationship="Self.FK_MaGG" FromRole="MaGiamGia" ToRole="DonHangMua" />
+  </EntityType>
+  <EntityType Name="NguyenLieu">
+    <Key>
+      <PropertyRef Name="MaNL" />
+    </Key>
+    <Property Name="MaNL" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenNL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaNCC" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+    <Property Name="DonGia" Type="Int32" Nullable="false" />
+    <Property Name="DaXoa" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="CheBiens" Relationship="Self.FK_MaNL" FromRole="NguyenLieu" ToRole="CheBien" />
+    <NavigationProperty Name="NhaCungCap" Relationship="Self.FK_MaNCC" FromRole="NguyenLieu" ToRole="NhaCungCap" />
+  </EntityType>
+  <EntityType Name="NhaCungCap">
+    <Key>
+      <PropertyRef Name="MaNCC" />
+    </Key>
+    <Property Name="MaNCC" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenNCC" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DaXoa" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="NguyenLieux" Relationship="Self.FK_MaNCC" FromRole="NhaCungCap" ToRole="NguyenLieu" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GioiTinh" Type="Byte" Nullable="false" />
+    <Property Name="LoaiNV" Type="Byte" Nullable="false" />
+    <Property Name="Luong" Type="Int32" />
+    <Property Name="ChucVu" Type="Byte" Nullable="false" />
+    <Property Name="DaXoa" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="DonHangMuas" Relationship="Self.FK_MaNVDonHang" FromRole="NhanVien" ToRole="DonHangMua" />
+    <NavigationProperty Name="LichLamViecs" Relationship="Self.ThamGiaLamViec" FromRole="NhanVien" ToRole="LichLamViec" />
+  </EntityType>
+  <EntityType Name="SanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenSP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GiaBan" Type="Int32" Nullable="false" />
+    <Property Name="ChiPhi" Type="Int32" Nullable="false" />
+    <Property Name="SoLuongTon" Type="Int32" Nullable="false" />
+    <Property Name="SoLuongDaBan" Type="Int32" Nullable="false" />
+    <Property Name="NgayCapNhat" Type="DateTime" Precision="0" />
+    <Property Name="DonViTinh" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MoTa" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DaXoa" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="CheBiens" Relationship="Self.FK_MaSP" FromRole="SanPham" ToRole="CheBien" />
+    <NavigationProperty Name="ChiTietDonHangs" Relationship="Self.FK_MaSPDonHang" FromRole="SanPham" ToRole="ChiTietDonHang" />
+  </EntityType>
+  <EntityType Name="NguyenLieuCuaSanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+      <PropertyRef Name="TenSP" />
+      <PropertyRef Name="MaNL" />
+      <PropertyRef Name="TenNL" />
+      <PropertyRef Name="SoLuong" />
+    </Key>
+    <Property Name="MaSP" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenSP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaNL" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenNL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NhanVienHienTai">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="TenNV" />
+      <PropertyRef Name="GioiTinh" />
+      <PropertyRef Name="LoaiNV" />
+      <PropertyRef Name="ChucVu" />
+    </Key>
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GioiTinh" Type="Byte" Nullable="false" />
+    <Property Name="LoaiNV" Type="Byte" Nullable="false" />
+    <Property Name="Luong" Type="Int32" />
+    <Property Name="ChucVu" Type="Byte" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SP_Da_Ban">
+    <Key>
+      <PropertyRef Name="MaSP" />
+      <PropertyRef Name="TenSP" />
+      <PropertyRef Name="GiaBan" />
+    </Key>
+    <Property Name="MaSP" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenSP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GiaBan" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_MaNL">
+    <End Role="NguyenLieu" Type="Self.NguyenLieu" Multiplicity="1" />
+    <End Role="CheBien" Type="Self.CheBien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguyenLieu">
+        <PropertyRef Name="MaNL" />
+      </Principal>
+      <Dependent Role="CheBien">
+        <PropertyRef Name="MaNL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaSP">
+    <End Role="SanPham" Type="Self.SanPham" Multiplicity="1" />
+    <End Role="CheBien" Type="Self.CheBien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="CheBien">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaDH">
+    <End Role="DonHangMua" Type="Self.DonHangMua" Multiplicity="1" />
+    <End Role="ChiTietDonHang" Type="Self.ChiTietDonHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DonHangMua">
+        <PropertyRef Name="MaDH" />
+      </Principal>
+      <Dependent Role="ChiTietDonHang">
+        <PropertyRef Name="MaDH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaSPDonHang">
+    <End Role="SanPham" Type="Self.SanPham" Multiplicity="1" />
+    <End Role="ChiTietDonHang" Type="Self.ChiTietDonHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="ChiTietDonHang">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaGG">
+    <End Role="MaGiamGia" Type="Self.MaGiamGia" Multiplicity="0..1" />
+    <End Role="DonHangMua" Type="Self.DonHangMua" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MaGiamGia">
+        <PropertyRef Name="MaGG" />
+      </Principal>
+      <Dependent Role="DonHangMua">
+        <PropertyRef Name="MaGG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaNVDonHang">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="0..1" />
+    <End Role="DonHangMua" Type="Self.DonHangMua" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="DonHangMua">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaNCC">
+    <End Role="NhaCungCap" Type="Self.NhaCungCap" Multiplicity="0..1" />
+    <End Role="NguyenLieu" Type="Self.NguyenLieu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhaCungCap">
+        <PropertyRef Name="MaNCC" />
+      </Principal>
+      <Dependent Role="NguyenLieu">
+        <PropertyRef Name="MaNCC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ThamGiaLamViec">
+    <End Role="LichLamViec" Type="Self.LichLamViec" Multiplicity="*" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="QUANLYCUAHANGEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CheBiens" EntityType="Self.CheBien" />
+    <EntitySet Name="ChiTietDonHangs" EntityType="Self.ChiTietDonHang" />
+    <EntitySet Name="DoanhThus" EntityType="Self.DoanhThu" />
+    <EntitySet Name="DonHangMuas" EntityType="Self.DonHangMua" />
+    <EntitySet Name="LichLamViecs" EntityType="Self.LichLamViec" />
+    <EntitySet Name="MaGiamGias" EntityType="Self.MaGiamGia" />
+    <EntitySet Name="NguyenLieux" EntityType="Self.NguyenLieu" />
+    <EntitySet Name="NhaCungCaps" EntityType="Self.NhaCungCap" />
+    <EntitySet Name="NhanViens" EntityType="Self.NhanVien" />
+    <EntitySet Name="SanPhams" EntityType="Self.SanPham" />
+    <EntitySet Name="NguyenLieuCuaSanPhams" EntityType="Self.NguyenLieuCuaSanPham" />
+    <EntitySet Name="NhanVienHienTais" EntityType="Self.NhanVienHienTai" />
+    <EntitySet Name="SP_Da_Ban" EntityType="Self.SP_Da_Ban" />
+    <AssociationSet Name="FK_MaNL" Association="Self.FK_MaNL">
+      <End Role="NguyenLieu" EntitySet="NguyenLieux" />
+      <End Role="CheBien" EntitySet="CheBiens" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaSP" Association="Self.FK_MaSP">
+      <End Role="SanPham" EntitySet="SanPhams" />
+      <End Role="CheBien" EntitySet="CheBiens" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaDH" Association="Self.FK_MaDH">
+      <End Role="DonHangMua" EntitySet="DonHangMuas" />
+      <End Role="ChiTietDonHang" EntitySet="ChiTietDonHangs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaSPDonHang" Association="Self.FK_MaSPDonHang">
+      <End Role="SanPham" EntitySet="SanPhams" />
+      <End Role="ChiTietDonHang" EntitySet="ChiTietDonHangs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaGG" Association="Self.FK_MaGG">
+      <End Role="MaGiamGia" EntitySet="MaGiamGias" />
+      <End Role="DonHangMua" EntitySet="DonHangMuas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaNVDonHang" Association="Self.FK_MaNVDonHang">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="DonHangMua" EntitySet="DonHangMuas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaNCC" Association="Self.FK_MaNCC">
+      <End Role="NhaCungCap" EntitySet="NhaCungCaps" />
+      <End Role="NguyenLieu" EntitySet="NguyenLieux" />
+    </AssociationSet>
+    <AssociationSet Name="ThamGiaLamViec" Association="Self.ThamGiaLamViec">
+      <End Role="LichLamViec" EntitySet="LichLamViecs" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+    <FunctionImport Name="sf_DanhSach_LamViecNgayCa" IsComposable="true" ReturnType="Collection(QUANLYCUAHANGModel.sf_DanhSach_LamViecNgayCa_Result)">
+      <Parameter Name="ngay" Mode="In" Type="DateTime" />
+      <Parameter Name="ca" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sf_DanhSach_LLVTrongNgay" IsComposable="true" ReturnType="Collection(QUANLYCUAHANGModel.sf_DanhSach_LLVTrongNgay_Result)">
+      <Parameter Name="ngay" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="sf_nv_LocNhanVienTheoChucVu" IsComposable="true" ReturnType="Collection(QUANLYCUAHANGModel.sf_nv_LocNhanVienTheoChucVu_Result)">
+      <Parameter Name="chucVu" Mode="In" Type="Byte" />
+    </FunctionImport>
+    <FunctionImport Name="sf_nv_LocNhanVienTheoGioiTinh" IsComposable="true" ReturnType="Collection(QUANLYCUAHANGModel.sf_nv_LocNhanVienTheoGioiTinh_Result)">
+      <Parameter Name="gioiTinh" Mode="In" Type="Byte" />
+    </FunctionImport>
+    <FunctionImport Name="sf_ThongTinDonHang" IsComposable="true" ReturnType="Collection(QUANLYCUAHANGModel.sf_ThongTinDonHang_Result)">
+      <Parameter Name="ngayBatDau" Mode="In" Type="DateTime" />
+      <Parameter Name="ngayKetThuc" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="sp_DanhSach_NhanVienVoiLuong" ReturnType="Collection(QUANLYCUAHANGModel.sp_DanhSach_NhanVienVoiLuong_Result)">
+      <Parameter Name="min" Mode="In" Type="Int32" />
+      <Parameter Name="max" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_DoanhThuNgayTheoThang" ReturnType="Collection(QUANLYCUAHANGModel.sp_DoanhThuNgayTheoThang_Result)">
+      <Parameter Name="thang" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_ThongTinDonHangTheoSanPham" ReturnType="Collection(QUANLYCUAHANGModel.sp_ThongTinDonHangTheoSanPham_Result)">
+      <Parameter Name="maSanPham" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="sp_DanhSach_NhanVienVoiLuong_Result">
+    <Property Type="String" Name="MaNV" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="MatKhau" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="TenNV" Nullable="false" MaxLength="50" />
+    <Property Type="Byte" Name="GioiTinh" Nullable="false" />
+    <Property Type="Byte" Name="LoaiNV" Nullable="false" />
+    <Property Type="Int32" Name="Luong" Nullable="true" />
+    <Property Type="Byte" Name="ChucVu" Nullable="false" />
+    <Property Type="Boolean" Name="DaXoa" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sp_DoanhThuNgayTheoThang_Result">
+    <Property Type="DateTime" Name="Ngay" Nullable="false" />
+    <Property Type="Int32" Name="TongThu" Nullable="true" />
+    <Property Type="Int32" Name="TongChi" Nullable="true" />
+    <Property Type="Int32" Name="TienLai" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_ThongTinDonHangTheoSanPham_Result">
+    <Property Type="String" Name="MaDH" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="MaSP" Nullable="false" MaxLength="10" />
+    <Property Type="Int32" Name="SoLuong" Nullable="false" />
+    <Property Type="Int32" Name="TongGiaTri" Nullable="true" />
+  </ComplexType>
+</Schema>
